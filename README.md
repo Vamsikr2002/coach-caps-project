@@ -1,8 +1,8 @@
 # Coach Caps 
 ## Future Ready Talent Virtual Internship Project
 # Microsoft Azure
-- Project Link:https:
-- Demo Video Link:https:
+- Project Link:https: https://lemon-coast-09f9afc00.2.azurestaticapps.net/
+- Demo Video Link:https: https://www.youtube.com/watch?v=GlxDMk2K09U
 
 ## Problem Statement/Opportunity:
  A caps selling shop wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges .Through this website the user can buy Stylish, Colourful and most attractive caps from Online with low cost .To build a whole website I have chosen Azure Cloud Platform. Built website that  have: Home, About, Product Details, Product Category, Contact Details along with Azure Bot Services deployed on Website for customers help.
@@ -27,7 +27,7 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 ![2](https://user-images.githubusercontent.com/115055314/219940173-d2bde1b7-9934-43b8-9266-8880e12272eb.jpg)
 ## Products
 ![3](https://user-images.githubusercontent.com/115055314/219940175-8e80ae28-4d53-46d6-bcaa-39c29f19c316.jpg)
-## Deals
+## Deals of the Day
 ![4](https://user-images.githubusercontent.com/115055314/219940179-a5b75beb-3810-4023-9fb8-e9c358191eeb.jpg)
 ## Contact Us
 ![5](https://user-images.githubusercontent.com/115055314/219940181-1a75b9ed-101a-442e-be56-3ecef209bd8c.jpg)
