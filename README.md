@@ -1,5 +1,6 @@
-# Coach Caps Project
-## Azure  Microsoft Project
+# Coach Caps 
+## Future Ready Talent Virtual Internship Project
+# Microsoft Azure
 - Project Link:https:
 - Demo Video Link:https:
 
