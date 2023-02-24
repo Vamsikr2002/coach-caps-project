@@ -2,7 +2,7 @@
 ## Future Ready Talent Virtual Internship Project
 # Microsoft Azure
 - Project Link:https: https://lemon-coast-09f9afc00.2.azurestaticapps.net/
-- Demo Video Link:https: https://www.youtube.com/watch?v=GlxDMk2K09U
+- Demo Video Link:https: 
 
 ## Problem Statement/Opportunity:
  A caps selling shop wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges .Through this website the user can buy Stylish, Colourful and most attractive caps from Online with low cost .To build a whole website I have chosen Azure Cloud Platform. Built website that  have: Home, About, Product Details, Product Category, Contact Details along with Azure Bot Services deployed on Website for customers help.
