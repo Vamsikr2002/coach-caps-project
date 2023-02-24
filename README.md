@@ -32,8 +32,8 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 ## Contact Us
 ![5](https://user-images.githubusercontent.com/115055314/219940181-1a75b9ed-101a-442e-be56-3ecef209bd8c.jpg)
 ## Azure Bot
-![6](https://user-images.githubusercontent.com/115055314/219940183-0549f345-c17f-44cb-a206-dda51e6fa93f.jpg)
-![7](https://user-images.githubusercontent.com/115055314/219940184-47ada18f-d1e5-48f5-99c8-6f2e14b88ecd.jpg)
+![8](https://user-images.githubusercontent.com/115055314/221252841-d6bcab9e-9984-4019-87d0-004e36d58c47.jpg)
+![9](https://user-images.githubusercontent.com/115055314/221252872-3b555107-82e0-4ead-83ad-aeba7d56a4da.jpg)
 ## Tech Stack 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
