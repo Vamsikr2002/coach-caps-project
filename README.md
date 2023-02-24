@@ -31,7 +31,7 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 ![4](https://user-images.githubusercontent.com/115055314/219940179-a5b75beb-3810-4023-9fb8-e9c358191eeb.jpg)
 ## Contact Us
 ![5](https://user-images.githubusercontent.com/115055314/219940181-1a75b9ed-101a-442e-be56-3ecef209bd8c.jpg)
-## Azure Bot
+## Azure Health Bot
 ![8](https://user-images.githubusercontent.com/115055314/221252841-d6bcab9e-9984-4019-87d0-004e36d58c47.jpg)
 ![9](https://user-images.githubusercontent.com/115055314/221252872-3b555107-82e0-4ead-83ad-aeba7d56a4da.jpg)
 ## Tech Stack 
