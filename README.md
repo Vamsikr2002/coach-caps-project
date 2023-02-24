@@ -19,7 +19,7 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 
 ## Services Used
 - Static Webapps
-- Azure Bot 
+- Azure Health Bot 
 
 ## Home 
 ![1](https://user-images.githubusercontent.com/115055314/219940160-78327907-feb3-4c79-8f98-56ded11c1ad1.jpg)
